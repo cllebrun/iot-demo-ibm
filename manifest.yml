@@ -10,8 +10,8 @@ applications:
 - services:
   - iot-phone-cloudant-cloudantNoSQLDB
   - iot-phone-iotf-service
-  host: iot-demo-clem
-  name: iot-demo-clem
+  host: iot-tel
+  name: iot-tel
   disk: 128M
   command: node app.js
   path: .
